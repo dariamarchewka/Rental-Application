@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Book" max_length="40" name="x_154593_rental_se_book" type="collection">
+        <element label="Author" max_length="40" name="u_author" type="string"/>
+        <element choice="1" label="Binding" mandatory="true" max_length="40" name="u_binding" type="choice">
+            <choice>
+                <element label="Audio Cassette" value="1"/>
+                <element label="Audio CD" value="2"/>
+                <element label="Board" value="3"/>
+                <element label="Boxed Set" value="4"/>
+                <element label="CD-ROM" value="5"/>
+                <element label="Hard Cover" value="6"/>
+                <element label="Library Binding" value="7"/>
+                <element label="Other" value="8"/>
+                <element label="Pack" value="9"/>
+                <element label="Padded Hard Cover" value="10"/>
+                <element label="Paper Back" value="11"/>
+                <element label="Spiral Bound" value="12"/>
+                <element label="Toy" value="13"/>
+                <element label="VHS" value="14"/>
+            </choice>
+        </element>
+        <element choice="3" label="Category" mandatory="true" max_length="40" name="u_category" type="choice">
+            <choice>
+                <element label="Action" value="1"/>
+                <element label="Adventure" value="2"/>
+                <element label="Biography" value="3"/>
+                <element label="Cars" value="4"/>
+                <element label="Children" value="5"/>
+                <element label="Computers" value="6"/>
+                <element label="Crafts" value="7"/>
+                <element label="Culture" value="8"/>
+                <element label="Family" value="9"/>
+                <element label="Games" value="10"/>
+                <element label="How to" value="11"/>
+                <element label="Literature" value="12"/>
+                <element label="Psychology" value="13"/>
+            </choice>
+        </element>
+        <element label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element display="true" label="Title" mandatory="true" max_length="160" name="u_title" type="string"/>
+    </element>
+</database>
