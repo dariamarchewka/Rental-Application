@@ -4,20 +4,24 @@
         <element label="Author" max_length="40" name="u_author" type="string"/>
         <element choice="1" label="Binding" mandatory="true" max_length="40" name="u_binding" type="choice">
             <choice>
-                <element label="Audio Cassette" value="1"/>
-                <element label="Audio CD" value="2"/>
-                <element label="Board" value="3"/>
-                <element label="Boxed Set" value="4"/>
-                <element label="CD-ROM" value="5"/>
-                <element label="Hard Cover" value="6"/>
-                <element label="Library Binding" value="7"/>
-                <element label="Other" value="8"/>
-                <element label="Pack" value="9"/>
-                <element label="Padded Hard Cover" value="10"/>
-                <element label="Paper Back" value="11"/>
-                <element label="Spiral Bound" value="12"/>
-                <element label="Toy" value="13"/>
-                <element label="VHS" value="14"/>
+                <element label="Audio Cassette" value="Audio Cassette"/>
+                <element label="Audio CD" value="Audio CD"/>
+                <element label="Board" value="Board"/>
+                <element label="Boxed Set" value="Boxed Set"/>
+                <element label="CD-ROM" value="CD-ROM"/>
+                <element label="Hard Cover" value="Hard Cover"/>
+                <element label="Library Binding" value="Library Binding"/>
+                <element label="Other" value="Other"/>
+                <element label="Pack" value="Pack"/>
+                <element label="Padded Hard Cover" value="Padded Hard Cover"/>
+                <element label="Paper Back" value="Paper Back"/>
+                <element label="Spiral Bound" value="Spiral Bound"/>
+                <element label="Toy" value="Toy"/>
+                <element label="VHS" value="VHS"/>
+                <element label="Board--" sequence="0" value="Board--"/>
+                <element label="Box--ed Set" sequence="0" value="Box--ed Set"/>
+                <element label="Paper Back--" sequence="0" value="Paper Back--"/>
+                <element label="Paper B{ack" sequence="0" value="Paper B{ack"/>
             </choice>
         </element>
         <element choice="3" label="Category" mandatory="true" max_length="40" name="u_category" type="choice">
@@ -35,6 +39,19 @@
                 <element label="How to" value="11"/>
                 <element label="Literature" value="12"/>
                 <element label="Psychology" value="13"/>
+                <element label="ACTION" sequence="0" value="ACTION"/>
+                <element label="ADVENTURE" sequence="0" value="ADVENTURE"/>
+                <element label="BIOGRAPHY" sequence="0" value="BIOGRAPHY"/>
+                <element label="CARS" sequence="0" value="CARS"/>
+                <element label="CHILDREN" sequence="0" value="CHILDREN"/>
+                <element label="COMPUTERS" sequence="0" value="COMPUTERS"/>
+                <element label="CRAFTS" sequence="0" value="CRAFTS"/>
+                <element label="CULTURE" sequence="0" value="CULTURE"/>
+                <element label="FAMILY" sequence="0" value="FAMILY"/>
+                <element label="GAMES" sequence="0" value="GAMES"/>
+                <element label="HOW-TO" sequence="0" value="HOW-TO"/>
+                <element label="LITERATURE" sequence="0" value="LITERATURE"/>
+                <element label="PSYCHOLOGY" sequence="0" value="PSYCHOLOGY"/>
             </choice>
         </element>
         <element label="Quantity" max_length="40" name="u_quantity" type="integer"/>

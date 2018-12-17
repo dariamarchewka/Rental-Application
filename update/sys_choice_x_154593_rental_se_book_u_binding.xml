@@ -15,105 +15,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>18a44aefdb1223008492de90cf961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:35:52</sys_updated_on>
-            <value>1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_binding</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Padded Hard Cover</label>
-            <language>en</language>
-            <name>x_154593_rental_se_book</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-16 21:38:45</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>81458aefdb1223008492de90cf9619f7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:38:45</sys_updated_on>
-            <value>10</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_binding</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Paper Back</label>
-            <language>en</language>
-            <name>x_154593_rental_se_book</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-16 21:39:07</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>a165c6efdb1223008492de90cf9619f5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:39:07</sys_updated_on>
-            <value>11</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_binding</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Spiral Bound</label>
-            <language>en</language>
-            <name>x_154593_rental_se_book</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-16 21:39:21</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>e765c6efdb1223008492de90cf961991</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:39:21</sys_updated_on>
-            <value>12</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_binding</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Toy</label>
-            <language>en</language>
-            <name>x_154593_rental_se_book</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-16 21:39:46</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>46850eefdb1223008492de90cf96196d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:39:46</sys_updated_on>
-            <value>13</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_binding</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>VHS</label>
-            <language>en</language>
-            <name>x_154593_rental_se_book</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-16 21:39:56</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>c9958aefdb1223008492de90cf9619cf</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:39:56</sys_updated_on>
-            <value>14</value>
+            <sys_updated_on>2018-12-17 13:11:40</sys_updated_on>
+            <value>Audio Cassette</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -129,10 +34,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0cb402efdb1223008492de90cf9619a1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:36:09</sys_updated_on>
-            <value>2</value>
+            <sys_updated_on>2018-12-17 13:11:46</sys_updated_on>
+            <value>Audio CD</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -148,10 +53,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b9c40eafdb1223008492de90cf961936</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:36:27</sys_updated_on>
-            <value>3</value>
+            <sys_updated_on>2018-12-17 13:09:11</sys_updated_on>
+            <value>Board</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -167,10 +72,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>28d4c6efdb1223008492de90cf96190e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:36:50</sys_updated_on>
-            <value>4</value>
+            <sys_updated_on>2018-12-17 13:12:01</sys_updated_on>
+            <value>Boxed Set</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -186,10 +91,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7cf40eefdb1223008492de90cf961964</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:37:10</sys_updated_on>
-            <value>5</value>
+            <sys_updated_on>2018-12-17 13:12:09</sys_updated_on>
+            <value>CD-ROM</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -205,10 +110,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9bf44eafdb1223008492de90cf96195f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:37:25</sys_updated_on>
-            <value>6</value>
+            <sys_updated_on>2018-12-17 13:12:17</sys_updated_on>
+            <value>Hard Cover</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -224,10 +129,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>dd1546efdb1223008492de90cf961907</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:37:49</sys_updated_on>
-            <value>7</value>
+            <sys_updated_on>2018-12-17 13:12:25</sys_updated_on>
+            <value>Library Binding</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -243,10 +148,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a8258aefdb1223008492de90cf9619cb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:38:02</sys_updated_on>
-            <value>8</value>
+            <sys_updated_on>2018-12-17 13:13:04</sys_updated_on>
+            <value>Other</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -262,10 +167,181 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9e35c6efdb1223008492de90cf9619b3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 13:13:13</sys_updated_on>
+            <value>Pack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_binding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Padded Hard Cover</label>
+            <language>en</language>
+            <name>x_154593_rental_se_book</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 21:38:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81458aefdb1223008492de90cf9619f7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 13:13:21</sys_updated_on>
+            <value>Padded Hard Cover</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_binding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paper Back</label>
+            <language>en</language>
+            <name>x_154593_rental_se_book</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 21:39:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a165c6efdb1223008492de90cf9619f5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 13:13:28</sys_updated_on>
+            <value>Paper Back</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_binding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spiral Bound</label>
+            <language>en</language>
+            <name>x_154593_rental_se_book</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 21:39:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e765c6efdb1223008492de90cf961991</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 13:13:43</sys_updated_on>
+            <value>Spiral Bound</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_binding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Toy</label>
+            <language>en</language>
+            <name>x_154593_rental_se_book</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 21:39:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46850eefdb1223008492de90cf96196d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 13:13:52</sys_updated_on>
+            <value>Toy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_binding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VHS</label>
+            <language>en</language>
+            <name>x_154593_rental_se_book</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 21:39:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9958aefdb1223008492de90cf9619cf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 13:14:07</sys_updated_on>
+            <value>VHS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_binding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Board--</label>
+            <language>en</language>
+            <name>x_154593_rental_se_book</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 11:41:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e464173dbd623008492de90cf96199b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-16 21:38:24</sys_updated_on>
-            <value>9</value>
+            <sys_updated_on>2018-12-17 11:41:42</sys_updated_on>
+            <value>Board--</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_binding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Box--ed Set</label>
+            <language>en</language>
+            <name>x_154593_rental_se_book</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 11:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82464173dbd623008492de90cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 11:41:43</sys_updated_on>
+            <value>Box--ed Set</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_binding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paper Back--</label>
+            <language>en</language>
+            <name>x_154593_rental_se_book</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 11:41:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e464173dbd623008492de90cf9619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 11:41:42</sys_updated_on>
+            <value>Paper Back--</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_binding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paper B{ack</label>
+            <language>en</language>
+            <name>x_154593_rental_se_book</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 11:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e464173dbd623008492de90cf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 11:41:43</sys_updated_on>
+            <value>Paper B{ack</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_binding</element>
